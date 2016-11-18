@@ -2,7 +2,7 @@
 
 Custom configurable script for a "Microsoft Mouse Microsoft Comfort Mouse 4500".
 
-For other mouse with similar buttons can change the name of the script mouse.
+For other mouse with similar buttons you can change the name of the  mouse in script.
 
 python and python evdev must be installed:
 
